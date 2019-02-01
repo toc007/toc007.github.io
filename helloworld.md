@@ -1,2 +1,0 @@
-## Hello
-GAS POWERED STICK
