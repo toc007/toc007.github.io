@@ -18,10 +18,11 @@ email: 'tochen0007@gmail.com'
 description: >- # this means to ignore newlines until "baseurl:"
   Recent graduate from University of California, San Diego with a B.S. in computer science. Seeking a position in
   software engineering. Looking to gain experience in embedded systems, computer networking and computer security.
-baseurl: "/index" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://toc007.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: toc007
 show_downloads: false
+WhoAmI: '/WhoAmI.html'
 
 # Build settings
 markdown: kramdown
